@@ -1,5 +1,3 @@
-# Renato-Augusto0-68
-Profile data and info bout me 
 # 💫 About Me:
 <br><br>I'm Renato Augusto, 18yr old...<br><br>💻I'm a Computer Science student;<br>💾I intente to update most as I can;<br>👨🏻‍💻Good English, Evolution and more knowledge;<br><br><br><br>🔓Habilities:<br> Python, bit of Java, HTML, and C++.<br><br>🤝 Network:<br>CESAR SCHOOL-PE;<br><br><br><br>🔑Tools that I use:<br>     Visual Studio;<br>     Git-Hub;<br>      Docker;     <br><br>👇Web places that I've passed up: <br>       https://linktr.ee/Renato_Augusto0_68;<br>
 # 💻 Tech Stack:
